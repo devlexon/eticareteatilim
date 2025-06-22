@@ -35,7 +35,7 @@ export default function ProteinPage() {
       reviews: 892,
       image: "/placeholder.svg?height=400&width=400",
       inStock: true,
-      features: ["35g Protein", "Lactose Free", "Instant Mix", "No Artificial Colors"],
+      features: ["36g Protein", "Lactose Free", "Instant Mix", "No Artificial Colors"],
     },
   ]
 
