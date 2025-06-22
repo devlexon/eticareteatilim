@@ -50,19 +50,6 @@ export default function ProteinPage() {
       inStock: true,
       features: ["50g Protein", "1200 Calories", "Complex Carbs", "Creatine Added"],
     },
-    {
-      id: 4,
-      name: "LEAN PROTEIN FORMULA",
-      subtitle: "Düşük Karbonhidrat Protein - Muz",
-      price: "329₺",
-      originalPrice: "399₺",
-      discount: "18",
-      rating: 4.6,
-      reviews: 456,
-      image: "/placeholder.svg?height=400&width=400",
-      inStock: false,
-      features: ["28g Protein", "Low Carb", "Fat Burner", "Digestive Enzymes"],
-    },
   ]
 
   const handleAddToCart = (product: any) => {
