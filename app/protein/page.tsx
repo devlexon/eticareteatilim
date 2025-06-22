@@ -37,19 +37,6 @@ export default function ProteinPage() {
       inStock: true,
       features: ["35g Protein", "Lactose Free", "Instant Mix", "No Artificial Colors"],
     },
-    {
-      id: 3,
-      name: "MONSTER MASS GAINER",
-      subtitle: "Yüksek Kalori Protein - Çilek Aroması",
-      price: "299₺",
-      originalPrice: "379₺",
-      discount: "21",
-      rating: 4.7,
-      reviews: 634,
-      image: "/placeholder.svg?height=400&width=400",
-      inStock: true,
-      features: ["50g Protein", "1200 Calories", "Complex Carbs", "Creatine Added"],
-    },
   ]
 
   const handleAddToCart = (product: any) => {
